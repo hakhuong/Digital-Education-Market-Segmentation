@@ -1,8 +1,10 @@
-# Oppia Growth Analytics: Country Segmentation for External Links for this Project
+# Oppia Growth Analytics: Country Segmentation for Digital Outreach
 
-## Related links
-Data Studio report to visualize results of clustering: https://datastudio.google.com/reporting/579277e7-6456-4ac4-b1ec-37c85020d46c 
-Jupyter Notebook - Data cleaning, Data exploration, and Clustering:
+## Related documents
++ Data Studio report to visualize results of clustering: https://datastudio.google.com/reporting/579277e7-6456-4ac4-b1ec-37c85020d46c 
++ Full report: https://docs.google.com/document/d/1aQyoRg9xto3oIQy1jX7UmZOEvSL9lb67nYQuRP78Wvo/edit?usp=sharing
++ Jupyter Notebook - Data cleaning, Data exploration, and Clustering
++ Data source: The Global Competitiveness Report 2017-2018 http://reports.weforum.org/global-competitiveness-index-2017-2018/
 
 ## TL;DR
 This project used a hierarchical clustering technique to classify 134 countries into 3 segments: 1) High education quality - Good internet access 2) Low education quality - Moderate internet access and 3) Low education quality - Low internet access. I recommended targeting 66 countries in Group 2 for the highest impact from Oppia’s outreach effort. Next steps from this project can be combining this result with language data and with Oppia’s user traffic data. 
