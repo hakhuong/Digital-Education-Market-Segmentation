@@ -1,0 +1,135 @@
+country,income_group,econ_region,geo_region,cluster,English,Spanish,French,Portuguese,Chinese,Hindi,Arabic,english_popular,Users,Sessions,Bounces,Avg. Session Duration,Avg. Page Load Time (sec),Page Load Sample,Goal Completions,page_sample_tf
+Albania,Upper middle income,Emerging and Developing Europe,Europe and North America,Mid,False,False,False,False,False,False,False,False,109.0,547.0,91.0,653.385740402193,2.853,1.0,836.0,False
+United Arab Emirates,High income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,True,False,False,False,False,True,True,False,2412.0,3290.0,1159.0,226.434954407294,4.5803,60.0,3897.0,False
+Argentina,Not classified,Latin America and the Caribbean,Latin America and the Caribbean,Mid,True,True,True,False,False,False,False,False,416.0,768.0,198.0,346.9296875,3.42455555555555,9.0,1066.0,False
+Armenia,Lower middle income,Commonwealth of Independent States,Eurasia,Mid,False,False,False,False,False,False,False,False,29.0,34.0,13.0,40.8823529411764,0.0,0.0,31.0,True
+Australia,High income,Advanced economies,East Asia and Pacific,High,True,False,False,False,False,False,True,True,2775.0,3700.0,885.0,216.793513513513,4.74813953488372,43.0,4730.0,False
+Austria,High income,Advanced economies,Europe and North America,High,False,False,False,False,False,False,False,False,244.0,336.0,69.0,207.1875,5.7375625,16.0,458.0,False
+Azerbaijan,Upper middle income,Commonwealth of Independent States,Eurasia,Mid,False,False,False,False,False,False,False,False,37.0,66.0,11.0,195.378787878787,0.0,0.0,100.0,True
+Burundi,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,True,False,False,False,False,False,2.0,4.0,0.0,482.75,0.0,0.0,7.0,True
+Belgium,High income,Advanced economies,Europe and North America,High,False,False,True,False,False,False,False,False,2039.0,5138.0,321.0,408.143830284157,6.40464788732394,71.0,9738.0,False
+Benin,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,False,False,True,False,False,False,False,False,4.0,5.0,3.0,167.2,0.0,0.0,1.0,True
+Bangladesh,Lower middle income,Emerging and Developing Asia,South Asia,Low,False,False,False,False,False,False,False,False,535.0,865.0,274.0,291.80578034682,18.124,10.0,962.0,False
+Bulgaria,Upper middle income,Emerging and Developing Europe,Europe and North America,Mid,False,False,False,False,False,False,False,False,141.0,168.0,57.0,95.0416666666666,0.0,0.0,176.0,True
+Bahrain,High income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,True,False,False,False,False,False,True,False,204.0,269.0,111.0,220.371747211895,0.0,0.0,271.0,True
+Bosnia & Herzegovina,Upper middle income,Emerging and Developing Europe,Europe and North America,Mid,False,False,False,False,False,False,False,False,84.0,99.0,32.0,230.333333333333,1.97566666666666,3.0,114.0,False
+Brazil,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,True,True,False,True,False,False,False,False,1125.0,1985.0,404.0,281.912342569269,7.54677333333333,75.0,3031.0,False
+Brunei,High income,Emerging and Developing Asia,East Asia and Pacific,Mid,True,False,False,False,True,False,False,False,96.0,118.0,41.0,306.389830508474,2.47525,4.0,151.0,False
+Bhutan,Lower middle income,Emerging and Developing Asia,South Asia,Mid,False,False,False,False,False,False,False,False,21.0,23.0,8.0,172.826086956521,0.0,0.0,21.0,True
+Botswana,Upper middle income,Sub-Saharan Africa,Sub-Saharan Africa,Mid,True,False,False,False,False,False,False,True,76.0,106.0,49.0,135.962264150943,0.0,0.0,102.0,True
+Canada,High income,Advanced economies,Europe and North America,High,True,True,True,False,False,False,True,True,4966.0,6958.0,1918.0,369.768899108939,3.79215294117647,170.0,9861.0,False
+Switzerland,High income,Advanced economies,Europe and North America,High,True,True,True,True,False,False,False,False,428.0,647.0,162.0,274.650695517774,2.0357,10.0,855.0,False
+Chile,High income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,True,True,False,False,False,False,False,False,124.0,163.0,32.0,173.159509202454,61.6148571428571,7.0,250.0,False
+China,Upper middle income,Emerging and Developing Asia,East Asia and Pacific,Mid,False,False,False,False,True,False,False,False,532.0,700.0,295.0,199.164285714285,39.824375,16.0,703.0,False
+Cameroon,Lower middle income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,True,False,False,False,False,False,77.0,115.0,43.0,273.817391304347,0.0,0.0,128.0,True
+Congo - Kinshasa,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,False,False,True,False,False,False,False,False,14.0,18.0,5.0,262.5,0.0,0.0,23.0,True
+Colombia,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,False,True,False,False,False,False,False,False,1581.0,3596.0,311.0,583.889321468298,6.98052173913043,69.0,6129.0,False
+Cape Verde,Lower middle income,Sub-Saharan Africa,Sub-Saharan Africa,Mid,False,False,False,True,False,False,False,False,,,,,,,,False
+Costa Rica,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,True,True,False,False,False,False,False,False,80.0,102.0,19.0,251.13725490196,8.792,1.0,180.0,False
+Cyprus,High income,Advanced economies,Europe and North America,High,True,False,False,False,False,False,True,False,246.0,384.0,94.0,354.705729166666,39.6835,4.0,591.0,False
+Czechia,High income,Advanced economies,Europe and North America,High,False,False,False,False,False,False,False,False,107.0,193.0,36.0,270.968911917098,2.17988888888888,9.0,281.0,False
+Germany,High income,Advanced economies,Europe and North America,High,False,False,False,False,False,False,False,False,2204.0,3556.0,765.0,289.324521934758,2.87032075471698,53.0,5068.0,False
+Denmark,High income,Advanced economies,Europe and North America,High,True,False,False,False,False,False,False,False,173.0,208.0,72.0,102.975961538461,2.661,1.0,231.0,False
+Dominican Republic,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,False,True,False,False,False,False,False,False,60.0,72.0,18.0,335.486111111111,8.574,2.0,106.0,False
+Algeria,Upper middle income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Low,False,False,True,False,False,False,True,False,159.0,229.0,55.0,365.266375545851,0.0,0.0,343.0,True
+Ecuador,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,False,True,False,False,False,False,False,False,141.0,191.0,40.0,198.162303664921,18.1435,2.0,253.0,False
+Egypt,Lower middle income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Low,True,False,True,False,False,False,True,False,1216.0,2156.0,376.0,272.172077922077,11.17028,25.0,2973.0,False
+Spain,High income,Advanced economies,Europe and North America,High,False,True,False,False,False,False,False,False,675.0,1056.0,207.0,300.017045454545,6.03614285714285,7.0,1679.0,False
+Estonia,High income,Advanced economies,Europe and North America,High,False,False,False,False,False,False,False,False,97.0,121.0,12.0,126.859504132231,2.22,5.0,166.0,False
+Ethiopia,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,True,False,125.0,161.0,40.0,215.496894409937,0.0,0.0,195.0,True
+Finland,High income,Advanced economies,Europe and North America,High,False,False,False,False,False,False,False,False,268.0,588.0,198.0,396.732993197278,3.75533333333333,9.0,694.0,False
+France,High income,Advanced economies,Europe and North America,High,False,False,True,False,False,False,False,False,1211.0,1765.0,430.0,194.052124645892,3.31488535031847,157.0,2191.0,False
+United Kingdom,High income,Advanced economies,Europe and North America,High,True,False,False,False,False,False,False,True,22519.0,32009.0,9084.0,470.432878252991,3.69009430051813,965.0,48194.0,False
+Georgia,Upper middle income,Commonwealth of Independent States,Eurasia,Mid,False,False,False,False,False,False,False,False,87.0,106.0,32.0,88.1981132075471,0.0,0.0,129.0,True
+Ghana,Lower middle income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,False,738.0,1144.0,439.0,370.716783216783,17.969724137931,29.0,1348.0,False
+Guinea,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,False,False,True,False,False,False,False,False,2.0,2.0,1.0,79.5,0.0,0.0,2.0,True
+Gambia,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,True,16.0,29.0,14.0,60.4482758620689,0.0,0.0,22.0,True
+Greece,High income,Advanced economies,Europe and North America,High,True,False,True,False,False,False,False,False,261.0,337.0,74.0,296.563798219584,3.259,2.0,503.0,False
+Guatemala,Lower middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,False,True,False,False,False,False,False,False,56.0,70.0,17.0,222.071428571428,0.0,0.0,87.0,True
+Hong Kong,High income,Advanced economies,East Asia and Pacific,High,True,False,False,False,True,False,False,True,492.0,620.0,246.0,103.243548387096,3.34644444444444,9.0,563.0,False
+Honduras,Lower middle income,Latin America and the Caribbean,Latin America and the Caribbean,Low,False,True,False,False,False,False,False,False,187.0,503.0,119.0,554.44930417495,7.48783333333333,6.0,648.0,False
+Croatia,High income,Emerging and Developing Europe,Europe and North America,Mid,False,False,False,False,False,False,False,False,65.0,88.0,20.0,77.1477272727272,3.333,5.0,113.0,False
+Hungary,High income,Emerging and Developing Europe,Europe and North America,Mid,True,False,True,False,False,False,False,False,737.0,1344.0,173.0,387.53125,4.00430769230769,13.0,2029.0,False
+Indonesia,Lower middle income,Emerging and Developing Asia,East Asia and Pacific,Low,True,False,False,False,False,False,False,False,1950.0,3122.0,349.0,445.891736066623,6.46997560975609,41.0,5430.0,False
+India,Lower middle income,Emerging and Developing Asia,South Asia,Low,True,False,False,False,False,True,False,False,16169.0,25091.0,6524.0,192.022159340002,11.8564889643463,589.0,31843.0,False
+Ireland,High income,Advanced economies,Europe and North America,High,True,False,False,False,False,False,False,True,1179.0,1561.0,550.0,198.538757206918,6.90846153846153,13.0,1915.0,False
+Iran,Upper middle income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,False,False,False,False,False,False,True,False,385.0,461.0,219.0,96.1344902386117,16.133375,8.0,343.0,False
+Iceland,High income,Advanced economies,Europe and North America,High,True,False,False,False,False,False,False,False,19.0,21.0,1.0,160.238095238095,0.0,0.0,35.0,True
+Israel,High income,Advanced economies,Middle East and North Africa,High,True,False,False,False,False,False,True,False,421.0,545.0,194.0,150.418348623853,0.0,0.0,582.0,True
+Italy,High income,Advanced economies,Europe and North America,High,False,False,True,False,False,False,False,False,317.0,458.0,108.0,150.64847161572,5.69176923076923,13.0,615.0,False
+Jamaica,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,True,False,False,False,False,False,False,True,749.0,1097.0,460.0,242.761166818596,6.71580769230769,26.0,1208.0,False
+Jordan,Upper middle income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,True,False,False,False,False,False,True,False,507.0,720.0,258.0,145.895833333333,12.9231111111111,9.0,749.0,False
+Japan,High income,Advanced economies,East Asia and Pacific,High,False,False,False,False,False,False,False,False,333.0,391.0,154.0,151.429667519181,3.965,2.0,374.0,False
+Kazakhstan,Upper middle income,Commonwealth of Independent States,Eurasia,Mid,True,False,False,False,False,False,False,False,132.0,210.0,27.0,217.366666666666,4.74175,16.0,282.0,False
+Kenya,Lower middle income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,True,611.0,883.0,278.0,306.400906002265,15.6592916666666,24.0,1066.0,False
+Kyrgyzstan,Lower middle income,Commonwealth of Independent States,Eurasia,Mid,False,False,False,False,False,False,False,False,13.0,20.0,4.0,83.15,0.0,0.0,17.0,True
+Cambodia,Lower middle income,Emerging and Developing Asia,East Asia and Pacific,Low,False,False,False,False,False,False,False,False,130.0,149.0,56.0,107.181208053691,13.757,1.0,153.0,False
+South Korea,High income,Advanced economies,East Asia and Pacific,High,True,False,False,False,False,False,False,False,353.0,435.0,140.0,98.2781609195402,4.83666666666666,3.0,395.0,False
+Kuwait,High income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,True,False,False,False,False,False,True,False,226.0,301.0,131.0,140.009966777408,3.914,1.0,300.0,False
+Laos,Lower middle income,Emerging and Developing Asia,East Asia and Pacific,Low,True,False,True,False,False,False,False,False,20.0,31.0,11.0,38.4838709677419,0.0,0.0,27.0,True
+Lebanon,Upper middle income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,True,False,True,False,False,False,True,False,667.0,1092.0,333.0,313.910256410256,31.087,20.0,1553.0,False
+Liberia,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,True,75.0,95.0,37.0,227.010526315789,0.0,0.0,109.0,True
+Sri Lanka,Lower middle income,Emerging and Developing Asia,South Asia,Mid,True,False,False,False,False,False,False,False,532.0,778.0,229.0,204.464010282776,9.82133333333333,12.0,960.0,False
+Lesotho,Lower middle income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,False,7.0,8.0,6.0,9.625,0.0,0.0,2.0,True
+Lithuania,High income,Advanced economies,Europe and North America,High,False,False,False,False,False,False,False,False,85.0,99.0,27.0,87.7676767676767,0.0,0.0,119.0,True
+Luxembourg,High income,Advanced economies,Europe and North America,High,True,False,True,True,False,False,False,False,33.0,39.0,12.0,279.51282051282,0.0,0.0,52.0,True
+Latvia,High income,Advanced economies,Europe and North America,High,False,False,False,False,False,False,False,False,38.0,40.0,17.0,40.975,0.0,0.0,27.0,True
+Morocco,Lower middle income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,False,False,True,False,False,False,True,False,257.0,371.0,131.0,186.684636118598,17.181,7.0,435.0,False
+Moldova,Lower middle income,Commonwealth of Independent States,Eurasia,Mid,False,False,False,False,False,False,False,False,19.0,36.0,5.0,56.9166666666666,0.0,0.0,37.0,True
+Mexico,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,False,True,False,False,False,False,False,False,1142.0,2139.0,272.0,380.752688172043,12.1534782608695,23.0,3495.0,False
+Mali,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,False,False,True,False,False,False,False,False,3.0,7.0,1.0,28.2857142857142,0.0,0.0,8.0,True
+Malta,High income,Advanced economies,Europe and North America,High,True,False,False,False,False,False,False,True,85.0,111.0,24.0,271.684684684684,5.0235,4.0,183.0,False
+Montenegro,Upper middle income,Emerging and Developing Europe,Europe and North America,Mid,False,False,False,False,False,False,False,False,6.0,6.0,1.0,14.5,0.0,0.0,3.0,True
+Mongolia,Lower middle income,Emerging and Developing Asia,East Asia and Pacific,Low,False,False,False,False,False,False,False,False,123.0,167.0,76.0,151.335329341317,0.0,0.0,135.0,True
+Mozambique,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,False,False,False,True,False,False,False,False,17.0,31.0,2.0,586.709677419354,0.0,0.0,64.0,True
+Mauritania,Lower middle income,"Middle East, North Africa, and Pakistan",Sub-Saharan Africa,Low,False,False,True,False,False,False,True,False,5.0,105.0,99.0,18.9619047619047,0.0,0.0,6.0,True
+Mauritius,Upper middle income,Sub-Saharan Africa,Sub-Saharan Africa,Mid,True,False,True,False,False,False,False,False,82.0,88.0,34.0,93.3863636363636,0.0,0.0,92.0,True
+Malawi,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,True,13.0,19.0,6.0,220.631578947368,0.0,0.0,25.0,True
+Malaysia,Upper middle income,Emerging and Developing Asia,East Asia and Pacific,Mid,True,False,False,False,True,False,False,False,1362.0,1880.0,346.0,211.509042553191,7.55441666666666,36.0,2399.0,False
+Namibia,Upper middle income,Sub-Saharan Africa,Sub-Saharan Africa,Mid,True,False,False,False,False,False,False,True,86.0,102.0,53.0,145.686274509803,0.0,0.0,78.0,True
+Nigeria,Lower middle income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,True,1486.0,2089.0,870.0,225.396840593585,18.74715,20.0,2090.0,False
+Nicaragua,Lower middle income,Latin America and the Caribbean,Latin America and the Caribbean,Low,True,True,False,False,False,False,False,False,19.0,24.0,8.0,59.2916666666666,0.0,0.0,28.0,True
+Netherlands,High income,Advanced economies,Europe and North America,High,True,False,False,False,False,False,False,False,1426.0,4830.0,223.0,826.278260869565,5.32943,100.0,8227.0,False
+Norway,High income,Advanced economies,Europe and North America,High,False,False,False,False,False,False,False,False,201.0,273.0,104.0,117.494505494505,0.0,0.0,269.0,True
+Nepal,Low income,Emerging and Developing Asia,South Asia,Low,True,False,False,False,False,False,False,False,385.0,469.0,192.0,120.985074626865,5.6863,10.0,459.0,False
+New Zealand,High income,Advanced economies,East Asia and Pacific,High,True,False,True,False,True,True,False,True,1407.0,1969.0,253.0,367.958354494667,7.36008695652173,23.0,3713.0,False
+Oman,High income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,True,False,False,False,False,False,True,False,277.0,521.0,72.0,304.333973128598,9.49,1.0,804.0,False
+Pakistan,Lower middle income,"Middle East, North Africa, and Pakistan",South Asia,Low,True,False,False,False,False,False,False,True,4319.0,5689.0,1962.0,178.666197925821,9.53228181818181,110.0,5981.0,False
+Panama,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,True,True,True,False,True,False,True,False,49.0,66.0,11.0,256.939393939393,6.688,1.0,102.0,False
+Peru,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,False,True,False,False,False,False,False,False,168.0,248.0,48.0,311.943548387096,4.133,4.0,406.0,False
+Philippines,Lower middle income,Emerging and Developing Asia,East Asia and Pacific,Mid,True,False,False,False,False,False,False,True,6270.0,7692.0,2831.0,169.597113884555,10.1340782608695,115.0,7378.0,False
+Poland,High income,Emerging and Developing Europe,Europe and North America,Mid,False,False,False,False,False,False,False,False,677.0,890.0,331.0,144.911235955056,4.72743243243243,37.0,915.0,False
+Portugal,High income,Advanced economies,Europe and North America,High,False,False,False,True,False,False,False,False,385.0,652.0,99.0,209.91717791411,2.05271428571428,14.0,858.0,False
+Paraguay,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Low,False,True,False,True,False,False,False,False,13.0,22.0,6.0,131.590909090909,0.0,0.0,37.0,True
+Qatar,High income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,True,False,False,False,False,False,True,False,924.0,1549.0,305.0,337.469980632666,4.86931937172774,191.0,2444.0,False
+Romania,Upper middle income,Emerging and Developing Europe,Europe and North America,Mid,False,False,False,False,False,False,False,False,250.0,301.0,93.0,130.667774086378,5.87985714285714,14.0,369.0,False
+Russia,Upper middle income,Commonwealth of Independent States,Eurasia,Mid,False,False,False,False,False,False,False,False,338.0,438.0,162.0,128.454337899543,3.75777777777777,9.0,444.0,False
+Rwanda,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,True,False,False,False,False,True,43.0,50.0,16.0,175.0,22.2518,5.0,54.0,False
+Saudi Arabia,High income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,False,False,False,False,False,False,True,False,2052.0,2744.0,713.0,162.029883381924,5.05205389221556,167.0,3389.0,False
+Senegal,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,False,False,True,False,False,False,False,False,11.0,15.0,5.0,136.933333333333,0.0,0.0,20.0,True
+Singapore,High income,Advanced economies,East Asia and Pacific,High,True,False,False,False,True,False,False,True,702.0,949.0,120.0,245.128556375131,3.61792857142857,14.0,1592.0,False
+Sierra Leone,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,True,30.0,35.0,14.0,128.828571428571,0.0,0.0,38.0,True
+El Salvador,Lower middle income,Latin America and the Caribbean,Latin America and the Caribbean,Low,False,True,False,False,False,False,False,False,27.0,30.0,12.0,47.4,0.0,0.0,30.0,True
+Serbia,Upper middle income,Emerging and Developing Europe,Europe and North America,Mid,False,False,False,False,False,False,False,False,123.0,143.0,61.0,74.048951048951,1.51275,20.0,138.0,False
+Slovenia,High income,Advanced economies,Europe and North America,High,False,False,False,False,False,False,False,False,41.0,49.0,19.0,37.2857142857142,0.0,0.0,46.0,True
+Sweden,High income,Advanced economies,Europe and North America,High,False,False,False,False,False,False,False,False,219.0,284.0,85.0,241.644366197183,4.13633333333333,3.0,333.0,False
+Eswatini,Lower middle income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,True,7.0,10.0,1.0,94.3,0.0,0.0,15.0,True
+Seychelles,High income,Sub-Saharan Africa,Sub-Saharan Africa,Mid,True,False,True,False,False,False,False,True,10.0,11.0,4.0,442.636363636363,0.0,0.0,13.0,True
+Chad,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,False,False,True,False,False,False,True,False,,,,,,,,False
+Thailand,Upper middle income,Emerging and Developing Asia,East Asia and Pacific,Mid,True,False,False,False,False,False,False,False,401.0,550.0,173.0,189.594545454545,3.201875,16.0,641.0,False
+Tajikistan,Lower middle income,Commonwealth of Independent States,Eurasia,Low,False,False,False,False,False,False,False,False,1.0,1.0,1.0,0.0,0.0,0.0,0.0,True
+Trinidad & Tobago,High income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,True,True,True,False,True,True,False,True,447.0,1009.0,182.0,629.747274529236,4.19464285714285,14.0,1794.0,False
+Tunisia,Lower middle income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Mid,False,False,True,False,False,False,True,False,69.0,107.0,22.0,167.626168224299,0.0,0.0,134.0,True
+Turkey,Upper middle income,Emerging and Developing Europe,Europe and North America,Mid,False,False,False,False,False,False,False,False,1262.0,2593.0,503.0,274.690320092556,5.55825,28.0,3598.0,False
+Taiwan,High income,Advanced economies,East Asia and Pacific,High,False,False,False,False,True,False,False,False,335.0,438.0,161.0,162.760273972602,5.798,5.0,443.0,False
+Tanzania,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,True,False,128.0,156.0,68.0,108.480769230769,15.5585,2.0,129.0,False
+Uganda,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,True,True,109.0,151.0,69.0,168.947019867549,14.318,2.0,128.0,False
+Ukraine,Lower middle income,Commonwealth of Independent States,Eurasia,Mid,False,False,False,False,False,False,False,False,246.0,353.0,169.0,79.2606232294617,15.608,2.0,286.0,False
+Uruguay,High income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,False,True,False,False,False,False,False,False,41.0,48.0,3.0,191.354166666666,0.0,0.0,94.0,True
+United States,High income,Advanced economies,Europe and North America,High,True,True,False,False,True,False,False,True,38759.0,62617.0,6176.0,192.35408914512,6.82033257661748,881.0,87106.0,False
+Venezuela,Upper middle income,Latin America and the Caribbean,Latin America and the Caribbean,Mid,False,True,False,False,False,False,False,False,186.0,322.0,43.0,325.298136645962,45.351625,8.0,564.0,False
+Vietnam,Lower middle income,Emerging and Developing Asia,East Asia and Pacific,Mid,True,False,True,False,True,False,False,False,648.0,827.0,318.0,155.186215235792,3.05266666666666,15.0,846.0,False
+Yemen,Lower middle income,"Middle East, North Africa, and Pakistan",Middle East and North Africa,Low,False,False,False,False,False,False,True,False,64.0,97.0,34.0,214.020618556701,0.0,0.0,97.0,True
+South Africa,Upper middle income,Sub-Saharan Africa,Sub-Saharan Africa,Mid,True,False,False,False,False,False,False,True,1993.0,2543.0,1040.0,199.758159653952,9.35065384615384,52.0,2552.0,False
+Zambia,Lower middle income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,True,216.0,265.0,109.0,139.411320754716,16.9225,2.0,236.0,False
+Zimbabwe,Low income,Sub-Saharan Africa,Sub-Saharan Africa,Low,True,False,False,False,False,False,False,False,162.0,214.0,63.0,200.03738317757,3.9725,2.0,250.0,False
